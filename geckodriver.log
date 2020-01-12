@@ -1,0 +1,14 @@
+1578848731686	mozrunner::runner	INFO	Running command: "G:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Apox\\AppData\\Local\\Temp\\rust_mozprofile.QeC0tn8Qna9U"
+1578848734359	Marionette	INFO	Listening on port 54819
+1578848734402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://discordapp.com/assets/5a61f8e3e63b7e93777f.js, line 36: Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1578848778094	Marionette	INFO	Stopped listening on port 54819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
