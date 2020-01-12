@@ -1,7 +1,0 @@
-C:\Users\Apox\source\repos\KCWikiaFetcher\KCWikiaFetcher\bin\Debug\KCWikiaFetcher.exe.config
-C:\Users\Apox\source\repos\KCWikiaFetcher\KCWikiaFetcher\bin\Debug\KCWikiaFetcher.exe
-C:\Users\Apox\source\repos\KCWikiaFetcher\KCWikiaFetcher\bin\Debug\KCWikiaFetcher.pdb
-C:\Users\Apox\source\repos\KCWikiaFetcher\KCWikiaFetcher\obj\Debug\KCWikiaFetcher.csprojAssemblyReference.cache
-C:\Users\Apox\source\repos\KCWikiaFetcher\KCWikiaFetcher\obj\Debug\KCWikiaFetcher.csproj.CoreCompileInputs.cache
-C:\Users\Apox\source\repos\KCWikiaFetcher\KCWikiaFetcher\obj\Debug\KCWikiaFetcher.exe
-C:\Users\Apox\source\repos\KCWikiaFetcher\KCWikiaFetcher\obj\Debug\KCWikiaFetcher.pdb
