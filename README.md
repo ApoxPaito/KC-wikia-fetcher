@@ -1,5 +1,3 @@
-Behold, the Wikia fetcher is on steroids now! Or should I say on Seleniumoids? Since they've disabled File: directories when you aren't logged into Fandom, even Selenium was brought to on its knees. However, little do they know that you can actually attach a profile to Selenium and actually do the automation process while being logged in!
-
 ## How to run
 
 - Clone/fetch this rep, I'm saying this because otherwise you'll need to go ahead and download Geckodriver anyway, so I'm cutting you a slack and already including it in here
