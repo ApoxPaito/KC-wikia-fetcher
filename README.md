@@ -9,3 +9,6 @@
 - Go to Wikia/Fandom and log into your account or create one if you don't have one
 - Go to `fetch.py`, you should see the comment I've written there
 - Run the script with `python fetch.py` and watch the show as images of shipgirls are downloaded
+
+~~Wikia is kinda dead nowadays so you could say this method is rather out of date
+Also who cares about Kancolle in >current year~~
